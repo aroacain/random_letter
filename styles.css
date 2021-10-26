@@ -1,0 +1,16 @@
+body {
+    background-color: #ffc857;
+}
+
+h1 {
+    font-family: 'Chilanka', cursive;
+    color: #084c61;
+    font-size: 50vh;
+}
+
+.letter {
+    display: flex;
+    -ms-flex-align: center;
+    justify-content: center;
+    max-height: 80vh;
+}
